@@ -10,16 +10,32 @@ sidebar:
   nav: "main"
 ---
 
-Welcome to the website for the Bioinformatics Virtual Coordination Network (BVCN). The group was started in March 2020 in response to the COVID-19 pandemic. As research laboratories were shutting,  we, a group of bioinformaticians and computational biologists, sought to formalize training to helping wet-lab biologists pick up some computational skills/begin computational projects during the global crisis. 
+18岁男生，目前就读于XX高中/大学（可注明城市），身高178cm（持续生长中）。
+性格关键词：好奇心MAX的乐天派/二次元与现实世界的平衡者/朋友眼中的"人形百科全书"
 
-Please see [here](https://biovcnet.github.io/_pages/get-involved/) if you'd like to be involved by either helping or participating or both!
+热爱领域
+√ 科技前沿：定期整理《自然》《科学》期刊亮点
+√ 运动系：校篮球队主力控卫/马拉松完赛证书持有者
+√ 文艺向：能弹《致爱丽丝》的架子鼓手/正在连载校园题材小说
+√ 特殊技能：3分钟还原魔方/能辨认200+种恐龙图谱
 
-# BVCN Organization
+成长ing计划
 
-This webpage functions as the central hub for the Bioinformatics Virtual Coordination Network. To get started with the various lessions and tutorials created by our instructors, you should visit our [Wiki page](https://github.com/biovcnet/biovcnet.github.io/wiki). From there you can access the 10 topics created by the [BVCN Volunteer Instructors](https://biovcnet.github.io/people.html). If you'd like to participate in the BVCN – ask questions, meet other scientists at your experience level, participate in discussion – you can receive an invitation to our Slack channel by completing this [survey](https://forms.gle/bwe3pmAF2YppUT5d7).
+2024-2028：完成XX大学计算机专业学习（目标院校）
 
----
+2029：计划赴欧攻读人工智能方向硕士
 
-<center>
-<img src="/images/Network-Organization-Overview-square.jpg" width="90%">
-</center>
+2030s：希望参与太空探索相关项目开发
+
+期待遇见
+→ 同样相信"学习是终身浪漫"的伙伴
+→ 能一起图书馆刷题也能夜爬看日出的搭档
+→ 对世界保持善意与好奇的灵魂
+→ （加分项）能教我跳街舞/懂基础编程/会三国语言任意一种
+
+特别说明
+这不是传统意义的征婚，而是寻找共同成长的"人生项目合伙人"。我们可以：
+✓ 每月交换书单/学习笔记
+✓ 寒暑假组队参加学术竞赛或公益项目
+✓ 用五年时间准备彼此的"理想大学基金"
+✓ 在法定婚龄到来时，如果依然同频，再郑重考虑婚姻
