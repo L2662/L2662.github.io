@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "What is the Bioinformatics Virtual Coordination Network"
+title: "彪哥征婚"
 excerpt: "What is BVCN?"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 sidebar:
   nav: "main"
 ---
-
+ 
 18岁男生，目前就读于北京大学，身高178cm 。
 性格关键词：好奇心MAX的乐天派/二次元与现实世界的平衡者/朋友眼中的"人形百科全书"
 
